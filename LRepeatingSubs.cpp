@@ -1,4 +1,3 @@
-//  Minimum number of deletions to make string Palindrome
 #include<bits/stdc++.h>
 using namespace std;
 
